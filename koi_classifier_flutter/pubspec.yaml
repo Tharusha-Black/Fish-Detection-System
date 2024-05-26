@@ -1,0 +1,46 @@
+name: koi_classifier_flutter
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.6
+  image_picker: ^0.8.4+4
+  http: ^0.13.3
+  path_provider: ^2.0.2
+  flutter_secure_storage: ^4.2.1
+  dio: ^5.4.3+1
+  url_launcher: ^6.0.20
+
+flutter:
+  assets:
+    - assets/logo.png
+    - assets/enter.png
+    - assets/profile.png
+    - assets/recent.png
+    - assets/home.png
+    - assets/logout.png
+    - assets/register.png
+    - assets/enter_btn.png
+    - assets/capture.png
+    - assets/upload_btn.png
+    - assets/menu.png
+    - assets/background_image.jpg
+    - assets/check.png
+    - assets/refresh.png
+    - assets/library.png
+    - assets/about.png
+    - assets/contact.png
+    - assets/instagram.png
+    - assets/phone.png
+    - assets/email.png
+    - assets/facebook.png    
+    - assets/hiutsuri.jpg
+    - assets/kohaku.jpg
+    - assets/showa.jpg
+    - assets/logo2.png
+    - assets/logo3.png
+    - assets/tnc.png
+    - assets/pvc.png
+    - assets/fish.png   
+    - assets/delete.png   
